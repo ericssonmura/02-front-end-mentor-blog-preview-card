@@ -20,7 +20,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ![](./screenshot.png)
 
-
 ### Links
 
 - Live Site URL: (https://github.com/ericssonmura/front-end-mentor-blog-preview-card)
