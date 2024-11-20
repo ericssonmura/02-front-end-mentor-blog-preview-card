@@ -61,6 +61,12 @@ img {
   border: 1.75px solid var(--gray-950);
   border-radius: 20px;
   box-shadow: 8px 8px var(--gray-950);
+  transition: box-shadow 0.4s ease-in-out;
+}
+
+.card__content:hover {
+  box-shadow: 12px 12px var(--gray-950);
+  cursor: pointer;
 }
 
 .card__heading {
