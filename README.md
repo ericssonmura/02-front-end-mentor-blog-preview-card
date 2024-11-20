@@ -20,9 +20,10 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ![](./screenshot.png)
 
+
 ### Links
 
-- Live Site URL: (https://github.com/ericssonmura/front-end-mentor-blog-preview-card)
+- Live Site URL: (https://ericssonmura.github.io/front-end-mentor-qr-code-component/)
 
 ## My process
 
