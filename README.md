@@ -27,13 +27,13 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## My process
 
-  ### Built with
+### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
-  ### What I learned
+### What I learned
 
 Using clamp() for responsive 
 
