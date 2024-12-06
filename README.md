@@ -20,8 +20,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/ericssonmura/front-end-mentor-blog-preview-card)
-- Live Site URL: (https://ericssonmura.github.io/front-end-mentor-blog-preview-card/)
+- Solution URL: (https://github.com/ericssonmura/02-front-end-mentor-blog-preview-card)
+- Live Site URL: (https://ericssonmura.github.io/02-front-end-mentor-blog-preview-card/)
 
 ## My process
 
